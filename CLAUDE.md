@@ -17,6 +17,8 @@ Ne pas introduire d'autres teintes dominantes. Le vert (`--green`) et le violet 
 
 ## Typographie
 
+📄 **Détail complet de toutes les classes de titres et de texte (tailles, graisses, couleurs) : voir [`docs/typographie.md`](docs/typographie.md).** À consulter avant de construire une nouvelle page.
+
 - **Prelia** : réservée au logotype "walterre" lui-même (voir logo ci-dessous, toujours utilisé comme image, jamais recomposé en texte). Le fichier de police n'a pas été fourni — ne pas tenter de le simuler avec une autre police en la faisant passer pour Prelia. Si un jour le fichier de police est fourni, il pourra aussi servir aux très grands titres d'accroche (hero).
 - **Montserrat** : police de travail pour tout le reste. Déjà chargée via Google Fonts dans chaque page (`Montserrat:wght@300;400;500;600;700`).
   - `h1` → Montserrat **Bold** (700)
